@@ -11,6 +11,7 @@
 '''
 import sys
 
+
 testCase = int(input())
 
 for i in range(testCase):
